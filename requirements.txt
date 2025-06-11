@@ -6,6 +6,6 @@ python-dotenv
 unstructured
 langchain-community
 langchain-groq
-tiktocken
+tiktoken
 sentence-transformers
 requests
